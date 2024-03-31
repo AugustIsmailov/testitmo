@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://news.itmo.ru/api/news/list/?ver=2.0&lead=true&per_page=9'
